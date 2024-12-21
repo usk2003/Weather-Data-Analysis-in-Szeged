@@ -36,20 +36,14 @@ To get started with the project, follow these steps:
 1. **Clone the repository:**  
    Use the following command to clone this repository to your local machine:  
     ```bash
-    git clone https://github.com/usk2003/weather-data-analysis-szeged.git
+    git clone https://github.com/usk2003/weather-data-analysis-in-szeged.git
     ```
 
-2. **Install dependencies:**  
-   Navigate to the project directory and install the required Python libraries using:  
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Download the dataset:**  
+2. **Download the dataset:**  
    Ensure the dataset is available in the content of gooogle colab. Place the weather dataset file in the `content/` folder or as specified in the script.
 
-4. **Execute in Google colab or Jupyter Notebook:**  
+3. **Execute in Google colab or Jupyter Notebook:**  
    Execute the ipynb file to analyze the weather data
 
-5. **View the results:**  
+4. **View the results:**  
    Explore the visualizations and statistical outputs generated in the analysis.  
